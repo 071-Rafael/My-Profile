@@ -8,4 +8,4 @@ Repositori ini dibuat untuk memenuhi Tugas P1 Pemrograman Platform dan berisi ko
 Saya mengusung tema **Tech Stack**. Desainnya menggunakan konsep *dark interface* menyerupai terminal *coding*, lengkap dengan elemen *cyber*. Tema ini sangat merepresentasikan minat utama saya untuk menjadi seorang *Backend Engineer*.
 
 ## Tautan Penting
-- **Live Demo Website:** [Klik di sini untuk melihat portofolio saya](https://071-rafael.github.io/My-Profile/biodata/)
+- **Live Demo Website:** [Klik di sini untuk melihat portofolio saya](https://071-rafael.github.io/My-Profile/Biodata/)
